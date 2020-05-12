@@ -1,0 +1,10 @@
+E:\61_GitHubGate\XXOP71_TextsComparison\Release\XXOP71_TextsComparison.exe.config
+E:\61_GitHubGate\XXOP71_TextsComparison\Release\XXOP71_TextsComparison.exe
+E:\61_GitHubGate\XXOP71_TextsComparison\Release\XXOP71_TextsComparison.pdb
+E:\61_GitHubGate\XXOP71_TextsComparison\Release\XXOP71_TextsComparison.xml
+E:\61_GitHubGate\XXOP71_TextsComparison\XXOP71_TextsComparison\obj\x86\Release\XXOP71_TextsComparison.CFrmRoot.resources
+E:\61_GitHubGate\XXOP71_TextsComparison\XXOP71_TextsComparison\obj\x86\Release\XXOP71_TextsComparison.Resources.resources
+E:\61_GitHubGate\XXOP71_TextsComparison\XXOP71_TextsComparison\obj\x86\Release\XXOP71_TextsComparison.vbproj.GenerateResource.Cache
+E:\61_GitHubGate\XXOP71_TextsComparison\XXOP71_TextsComparison\obj\x86\Release\XXOP71_TextsComparison.exe
+E:\61_GitHubGate\XXOP71_TextsComparison\XXOP71_TextsComparison\obj\x86\Release\XXOP71_TextsComparison.xml
+E:\61_GitHubGate\XXOP71_TextsComparison\XXOP71_TextsComparison\obj\x86\Release\XXOP71_TextsComparison.pdb

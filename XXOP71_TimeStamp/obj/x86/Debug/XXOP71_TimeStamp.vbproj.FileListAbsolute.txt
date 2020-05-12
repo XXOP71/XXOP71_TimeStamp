@@ -1,0 +1,16 @@
+E:\61_GitHubGate\XXOP71_TimeStamp\Debug\XXOP71_TimeStamp.exe.config
+E:\61_GitHubGate\XXOP71_TimeStamp\Debug\XXOP71_TimeStamp.exe
+E:\61_GitHubGate\XXOP71_TimeStamp\Debug\XXOP71_TimeStamp.pdb
+E:\61_GitHubGate\XXOP71_TimeStamp\Debug\XXOP71_TimeStamp.xml
+E:\61_GitHubGate\XXOP71_TimeStamp\XXOP71_TextsComparison\obj\x86\Debug\XXOP71_TimeStamp.CFrmRoot.resources
+E:\61_GitHubGate\XXOP71_TimeStamp\XXOP71_TextsComparison\obj\x86\Debug\XXOP71_TimeStamp.Resources.resources
+E:\61_GitHubGate\XXOP71_TimeStamp\XXOP71_TextsComparison\obj\x86\Debug\XXOP71_TimeStamp.vbproj.GenerateResource.Cache
+E:\61_GitHubGate\XXOP71_TimeStamp\XXOP71_TextsComparison\obj\x86\Debug\XXOP71_TimeStamp.exe
+E:\61_GitHubGate\XXOP71_TimeStamp\XXOP71_TextsComparison\obj\x86\Debug\XXOP71_TimeStamp.xml
+E:\61_GitHubGate\XXOP71_TimeStamp\XXOP71_TextsComparison\obj\x86\Debug\XXOP71_TimeStamp.pdb
+E:\61_GitHubGate\XXOP71_TimeStamp\XXOP71_TimeStamp\obj\x86\Debug\XXOP71_TimeStamp.exe
+E:\61_GitHubGate\XXOP71_TimeStamp\XXOP71_TimeStamp\obj\x86\Debug\XXOP71_TimeStamp.xml
+E:\61_GitHubGate\XXOP71_TimeStamp\XXOP71_TimeStamp\obj\x86\Debug\XXOP71_TimeStamp.pdb
+E:\61_GitHubGate\XXOP71_TimeStamp\XXOP71_TimeStamp\obj\x86\Debug\XXOP71_TimeStamp.CFrmRoot.resources
+E:\61_GitHubGate\XXOP71_TimeStamp\XXOP71_TimeStamp\obj\x86\Debug\XXOP71_TimeStamp.Resources.resources
+E:\61_GitHubGate\XXOP71_TimeStamp\XXOP71_TimeStamp\obj\x86\Debug\XXOP71_TimeStamp.vbproj.GenerateResource.Cache
