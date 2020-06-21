@@ -14,3 +14,7 @@ E:\61_GitHubGate\XXOP71_TimeStamp\XXOP71_TimeStamp\obj\x86\Debug\XXOP71_TimeStam
 E:\61_GitHubGate\XXOP71_TimeStamp\XXOP71_TimeStamp\obj\x86\Debug\XXOP71_TimeStamp.CFrmRoot.resources
 E:\61_GitHubGate\XXOP71_TimeStamp\XXOP71_TimeStamp\obj\x86\Debug\XXOP71_TimeStamp.Resources.resources
 E:\61_GitHubGate\XXOP71_TimeStamp\XXOP71_TimeStamp\obj\x86\Debug\XXOP71_TimeStamp.vbproj.GenerateResource.Cache
+E:\G01_GitHub_XXOP71\XXOP71_TimeStamp\Debug\XXOP71_TimeStamp.exe.config
+E:\G01_GitHub_XXOP71\XXOP71_TimeStamp\XXOP71_TimeStamp\obj\x86\Debug\XXOP71_TimeStamp.exe
+E:\G01_GitHub_XXOP71\XXOP71_TimeStamp\XXOP71_TimeStamp\obj\x86\Debug\XXOP71_TimeStamp.xml
+E:\G01_GitHub_XXOP71\XXOP71_TimeStamp\XXOP71_TimeStamp\obj\x86\Debug\XXOP71_TimeStamp.pdb
